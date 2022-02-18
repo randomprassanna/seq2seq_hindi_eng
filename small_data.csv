@@ -1,0 +1,1001 @@
+,hindi,english
+0,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+1,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+2,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the bottom panel
+3,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the top panel
+4,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+5,अवधि को हाइलाइट रकें,Highlight duration
+6,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,The duration of the highlight box when selecting accessible nodes
+7,सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+8,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+9,भराई के रंग को हाइलाइट करें,Highlight fill color
+10,हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+11,एपीआई विचरक,API Browser
+12,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+13,निजी गुणों को छिपाएं,Hide private attributes
+14,विधि,Method
+15,गुणधर्म,Property
+16,मान,Value
+17,आईपाइथन कन्सोल,IPython Console
+18,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+19,घटना मानिटर,Event monitor
+20,घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+21,चुनाव को हटाएं (C _) ,C _ lear Selection
+22,सभी,Everything
+23,चुने गए अनुप्रयोग,Selected application
+24,चुने गए एक्सेसेबेल,Selected accessible
+25,स्रोत,Source
+26,घटना मानिटर,Event Monitor
+27,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+28,अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+29,घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+30,घटना रोजनामचा मिटाओ,Clear event log
+31,कोई विवरण नहीं,(no description)
+32,वर्णन,Description
+33,दिखाएं,Show
+34,पहुंचनीय,_ Accessible
+35,कार्रवाई संपन्न करें,Perform action
+36,कार्रवाई (_ o) ,Acti _ on
+37,आईडी,ID
+38,औजार बक्सा,Toolkit
+39,संस्करण,Version
+40,अनुप्रयोग,Ap _ plication
+41,संग्रह,Col _ lection
+42,"0, 0","0, 0"
+43,सापेक्ष स्थिति,Relative position
+44,आकार,Size
+45,विडजेट,WIDGET
+46,स्तर,Layer
+47,एमडीआई-जेड-क्रम,MDI - Z - order
+48,अल्फा,Alpha
+49,निरपेक्ष स्थिति,Absolute position
+50,घटक,Co _ mponent
+51,डेस्कटोप,Des _ ktop
+52,स्थान-विशिष्टः,Locale:
+53,प्रलेख,_ Document
+54,हाइपरकड़ी,Hyperlink
+55,हाइपरपाठ,H _ ypertext
+56,स्थिति,Position
+57,वर्णन,Description
+58,स्थान-विशिष्ट,Locale
+59,छवि (_ I) ,_ Image
+60,प्रवेश सहायक,Lo _ gin Helper
+61,सभी चुनें,Select All
+62,चयन (_ S) ,_ Selection
+63,प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+64,चुने गए स्तंभ,Selected columns
+65,चुनी गई पंक्तियां,Selected rows
+66,स्तंभ,Columns
+67,पंक्तियां,Rows
+68,& lt; bgt; सारणी सूचनाlt;/bgt; ,Table Information
+69,"नाम (x, y) ","name (x, y)"
+70,शीर्षकः,Header:
+71,विस्तारः,Extents:
+72,पंक्ति,Row
+73,स्तंभ,Column
+74,& lt; bgt; चुनी गई कोशिकाlt;/bgt; ,Selected Cell
+75,सारणी (_ T) ,_ Table
+76,ओफसेट,Offset
+77,डिफोल्टों को शामिल करें,Include defaults
+78,पाठ (_ x) ,Te _ xt
+79,मौजूदा मान,Current value
+80,न्यूनतम वृद्धि,Minimum increment
+81,अधिकतम मान,Maximum value
+82,न्यूनतम मान,Minimum value
+83,मान,Val _ ue
+84,अंतराफलक दर्शक,Interface Viewer
+85,अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+86,(क्रियान्वित नहीं हुआ है) ,(not implemented)
+87,नाम,Name
+88,यूआरआई,URI
+89,प्रारंभ,Start
+90,अंत,End
+91,बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+92,तेज चुनाव,Quick Select
+93,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+94,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+95,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+96,वतनी,Native
+97,श्वानपुच्छ,Dogtail
+98,एलडीटीपी,LDTP
+99,लिपि प्रकार,Script Type
+100,लिपि रेकोर्डर,Script Recorder
+101,श्वानपुच्छ शैली की लिपियां निर्मित करता है,Creates dogtail style scripts
+102,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी। ,The current script will be lost.
+103,मिटाने की पुष्टि करें,Confirm clear
+104,स्कीमाः,Sche _ ma:
+105,सत्यापन,V _ alidate
+106,खाली,Idle
+107,कोई विवरण नहीं,No description
+108,एटी-एसपीआई सत्यापक,AT - SPI Validator
+109,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है,Validates application accessibility
+110,स्तर,Level
+111,भूमिका,Role
+112,सहेज रहे हैं,Saving
+113,पुष्टि कर रहे हैं,Validating
+114,अपवाद,EXCEPT
+115,त्रुटि,ERROR
+116,चेतावनी,WARN
+117,सूचना,INFO
+118,दोषमुक्त करें,DEBUG
+119,मूल,Basic
+120,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है,Tests fundamental GUI application accessibility
+121,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+122,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,interactive% s is not actionable
+123,एक से अधिक विडजेट फोकस में है,more than one focused widget
+124,% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+125,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती,% s index in parent does not match child index
+126,% s संबंध के लिए अन्योन्य गायब है,Missing reciprocal for% s relation
+127,% s गायब नाम या सूचक,% s missing name or label
+128,"फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has table interface, no selection interface"
+129,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",% s has% s state without% s state
+130,% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+131,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,% (rolename) s index% (num) d does not match row and column
+132,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+133,% s का कोई नाम या विवरण नहीं,% s has no name or description
+134,पसंद (_ P)... ,_ Preferences...
+135,विषय सूची (_ C) ,_ Contents
+136,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+137,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। ,Note: Changes only take effect after logout.
+138,शिशु,Children
+139,पंजी ताजा करें (_ R) ,_ Refresh Registry
+140,सभी को ताजा करें,Refresh all
+141,आसंधि (नोड) को ताजा करें (_ N) ,Refresh _ Node
+142,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,Refresh selected node 's children
+143,घटक,Component
+144,कार्य,Task
+145,कुंजी,Key
+146,आल्ट,Alt
+147,कंट्रोल,Ctrl
+148,शिफ्ट,Shift
+149,ऊपरी पटल,Top panel
+150,निचला पटल,Bottom panel
+151,एक्सेर्साइसर पसंद,accerciser Preferences
+152,प्लगइन्स,Plugins
+153,सार्वत्रिक फटाफट कुंजियां,Global Hotkeys
+154,हाइलाइटन,Highlighting
+155,हाइलाइट अवधिः,Highlight duration:
+156,सीमांत रंगः,Border color:
+157,हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+158,भराई का रंगः,Fill color:
+159,हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+160,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+161,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+162,"एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी) ","accerciser Copyright © 2006, 2007 IBM Corporation (BSD)"
+163,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+164,जाल स्थल,Web site
+165,पसंद जोड़ें... (_ A) ,_ Add Bookmark...
+166,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+167,पुस्तक चिह्न संपादित करें (_ E)... ,_ Edit Bookmarks...
+168,पुस्तक-चिह्नों को प्रबंधित करें। ,Manage bookmarks.
+169,पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+170,शीर्षक,Title
+171,अनुप्रयोग,Application
+172,पथ,Path
+173,पुस्तक-चिह्न जोड़ें... ,Add Bookmark...
+174,शीर्षकः,Title:
+175,अनुप्रयोगः,Application:
+176,पथः,Path:
+177,प्लग-इन त्रुटियां,Plugin Errors
+178,दृश्य,View
+179,कोई दृश्य नहीं है,No view
+180,एकल प्लग-इन दृश्य,_ Single plugins view
+181,प्लग-इन दृश्य,Plugin View
+182,प्लग-इन दृश्य (% d) ,Plugin View (% d)
+183,नया दृश्य... ,_ New view...
+184,नया दृश्य... ,New View...
+185,फाइल (F) ,_ File
+186,संपादित करें,_ Edit
+187,पुस्तक-चिह्न संपादित करें (_ E)... ,_ Bookmarks
+188,दृश्य _ (V) ,_ View
+189,मदद,_ Help
+190,पूरा नाम,Full name
+191,कुंजी बंधन,Key binding
+192,विषय प्रकार,Content type
+193,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+194,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+195,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the bottom panel
+196,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the top panel
+197,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+198,अवधि को हाइलाइट रकें,Highlight duration
+199,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,The duration of the highlight box when selecting accessible nodes
+200,सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+201,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+202,भराई के रंग को हाइलाइट करें,Highlight fill color
+203,हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+204,एपीआई विचरक,API Browser
+205,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+206,निजी गुणों को छिपाएं,Hide private attributes
+207,विधि,Method
+208,गुणधर्म,Property
+209,मान,Value
+210,आईपाइथन कन्सोल,IPython Console
+211,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+212,घटना मानिटर,Event monitor
+213,घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+214,चुनाव को हटाएं (C _) ,C _ lear Selection
+215,सभी,Everything
+216,चुने गए अनुप्रयोग,Selected application
+217,चुने गए एक्सेसेबेल,Selected accessible
+218,स्रोत,Source
+219,घटना मानिटर,Event Monitor
+220,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+221,अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+222,घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+223,घटना रोजनामचा मिटाओ,Clear event log
+224,कोई विवरण नहीं,(no description)
+225,वर्णन,Description
+226,दिखाएं,Show
+227,पहुंचनीय,_ Accessible
+228,कार्रवाई संपन्न करें,Perform action
+229,कार्रवाई (_ o) ,Acti _ on
+230,आईडी,ID
+231,औजार बक्सा,Toolkit
+232,संस्करण,Version
+233,अनुप्रयोग,Ap _ plication
+234,संग्रह,Col _ lection
+235,"0, 0","0, 0"
+236,सापेक्ष स्थिति,Relative position
+237,आकार,Size
+238,विडजेट,WIDGET
+239,स्तर,Layer
+240,एमडीआई-जेड-क्रम,MDI - Z - order
+241,अल्फा,Alpha
+242,निरपेक्ष स्थिति,Absolute position
+243,घटक,Co _ mponent
+244,डेस्कटोप,Des _ ktop
+245,स्थान-विशिष्टः,Locale:
+246,प्रलेख,_ Document
+247,हाइपरकड़ी,Hyperlink
+248,हाइपरपाठ,H _ ypertext
+249,स्थिति,Position
+250,वर्णन,Description
+251,स्थान-विशिष्ट,Locale
+252,छवि (_ I) ,_ Image
+253,प्रवेश सहायक,Lo _ gin Helper
+254,सभी चुनें,Select All
+255,चयन (_ S) ,_ Selection
+256,प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+257,चुने गए स्तंभ,Selected columns
+258,चुनी गई पंक्तियां,Selected rows
+259,स्तंभ,Columns
+260,पंक्तियां,Rows
+261,& lt; bgt; सारणी सूचनाlt;/bgt; ,Table Information
+262,"नाम (x, y) ","name (x, y)"
+263,शीर्षकः,Header:
+264,विस्तारः,Extents:
+265,पंक्ति,Row
+266,स्तंभ,Column
+267,& lt; bgt; चुनी गई कोशिकाlt;/bgt; ,Selected Cell
+268,सारणी (_ T) ,_ Table
+269,ओफसेट,Offset
+270,डिफोल्टों को शामिल करें,Include defaults
+271,पाठ (_ x) ,Te _ xt
+272,मौजूदा मान,Current value
+273,न्यूनतम वृद्धि,Minimum increment
+274,अधिकतम मान,Maximum value
+275,न्यूनतम मान,Minimum value
+276,मान,Val _ ue
+277,अंतराफलक दर्शक,Interface Viewer
+278,अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+279,(क्रियान्वित नहीं हुआ है) ,(not implemented)
+280,नाम,Name
+281,यूआरआई,URI
+282,प्रारंभ,Start
+283,अंत,End
+284,बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+285,तेज चुनाव,Quick Select
+286,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+287,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+288,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+289,वतनी,Native
+290,श्वानपुच्छ,Dogtail
+291,एलडीटीपी,LDTP
+292,लिपि प्रकार,Script Type
+293,लिपि रेकोर्डर,Script Recorder
+294,श्वानपुच्छ शैली की लिपियां निर्मित करता है,Creates dogtail style scripts
+295,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी। ,The current script will be lost.
+296,मिटाने की पुष्टि करें,Confirm clear
+297,स्कीमाः,Sche _ ma:
+298,सत्यापन,V _ alidate
+299,खाली,Idle
+300,कोई विवरण नहीं,No description
+301,एटी-एसपीआई सत्यापक,AT - SPI Validator
+302,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है,Validates application accessibility
+303,स्तर,Level
+304,भूमिका,Role
+305,सहेज रहे हैं,Saving
+306,पुष्टि कर रहे हैं,Validating
+307,अपवाद,EXCEPT
+308,त्रुटि,ERROR
+309,चेतावनी,WARN
+310,सूचना,INFO
+311,दोषमुक्त करें,DEBUG
+312,मूल,Basic
+313,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है,Tests fundamental GUI application accessibility
+314,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+315,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,interactive% s is not actionable
+316,एक से अधिक विडजेट फोकस में है,more than one focused widget
+317,% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+318,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती,% s index in parent does not match child index
+319,% s संबंध के लिए अन्योन्य गायब है,Missing reciprocal for% s relation
+320,% s गायब नाम या सूचक,% s missing name or label
+321,"फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has table interface, no selection interface"
+322,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",% s has% s state without% s state
+323,% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+324,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,% (rolename) s index% (num) d does not match row and column
+325,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+326,% s का कोई नाम या विवरण नहीं,% s has no name or description
+327,पसंद (_ P)... ,_ Preferences...
+328,विषय सूची (_ C) ,_ Contents
+329,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+330,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। ,Note: Changes only take effect after logout.
+331,शिशु,Children
+332,पंजी ताजा करें (_ R) ,_ Refresh Registry
+333,सभी को ताजा करें,Refresh all
+334,आसंधि (नोड) को ताजा करें (_ N) ,Refresh _ Node
+335,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,Refresh selected node 's children
+336,घटक,Component
+337,कार्य,Task
+338,कुंजी,Key
+339,आल्ट,Alt
+340,कंट्रोल,Ctrl
+341,शिफ्ट,Shift
+342,ऊपरी पटल,Top panel
+343,निचला पटल,Bottom panel
+344,एक्सेर्साइसर पसंद,accerciser Preferences
+345,प्लगइन्स,Plugins
+346,सार्वत्रिक फटाफट कुंजियां,Global Hotkeys
+347,हाइलाइटन,Highlighting
+348,हाइलाइट अवधिः,Highlight duration:
+349,सीमांत रंगः,Border color:
+350,हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+351,भराई का रंगः,Fill color:
+352,हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+353,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+354,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+355,"एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी) ","accerciser Copyright © 2006, 2007 IBM Corporation (BSD)"
+356,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+357,जाल स्थल,Web site
+358,पसंद जोड़ें... (_ A) ,_ Add Bookmark...
+359,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+360,पुस्तक चिह्न संपादित करें (_ E)... ,_ Edit Bookmarks...
+361,पुस्तक-चिह्नों को प्रबंधित करें। ,Manage bookmarks.
+362,पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+363,शीर्षक,Title
+364,अनुप्रयोग,Application
+365,पथ,Path
+366,पुस्तक-चिह्न जोड़ें... ,Add Bookmark...
+367,शीर्षकः,Title:
+368,अनुप्रयोगः,Application:
+369,पथः,Path:
+370,प्लग-इन त्रुटियां,Plugin Errors
+371,दृश्य,View
+372,कोई दृश्य नहीं है,No view
+373,एकल प्लग-इन दृश्य,_ Single plugins view
+374,प्लग-इन दृश्य,Plugin View
+375,प्लग-इन दृश्य (% d) ,Plugin View (% d)
+376,नया दृश्य... ,_ New view...
+377,नया दृश्य... ,New View...
+378,फाइल (F) ,_ File
+379,संपादित करें,_ Edit
+380,पुस्तक-चिह्न संपादित करें (_ E)... ,_ Bookmarks
+381,दृश्य _ (V) ,_ View
+382,मदद,_ Help
+383,पूरा नाम,Full name
+384,कुंजी बंधन,Key binding
+385,विषय प्रकार,Content type
+386,एक्सेर्साइसर,Accerciser
+387,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+388,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+389,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+390,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
+391,अवधि को हाइलाइट रकें,Highlight duration
+392,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि. ,The duration of the highlight box when selecting accessible nodes.
+393,भराई के रंग को हाइलाइट करें,Highlight fill color
+394,हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+395,सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+396,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+397,नीचे के पैनल के लिए लेआउट,The layout for the bottom panel
+398,नीचे पैनल pluginview के लिए लेआउट. ,The layout for the bottom panel pluginview.
+399,ऊपरी पटल के लिए खाका,The layout for the top panel
+400,शीर्ष पैनल pluginview के लिए लेआउट. ,The layout for the top panel pluginview.
+401,एकल लेआउट दृश्य,Single layout view
+402,नई pluginviews उपलब्ध है,Available new pluginviews
+403,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका. ,The default plugin layout for the top panel.
+404,एपीआई विचरक,API Browser
+405,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+406,निजी गुणों को छिपाएं,Hide private attributes
+407,विधि,Method
+408,गुणधर्म,Property
+409,मान,Value
+410,आईपाइथन कन्सोल,IPython Console
+411,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+412,घटना मानिटर,Event monitor
+413,घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+414,चुनाव को हटाएं (C _) ,C _ lear Selection
+415,सभी,Everything
+416,चुने गए अनुप्रयोग,Selected application
+417,चुने गए एक्सेसेबेल,Selected accessible
+418,स्रोत,Source
+419,घटना मानिटर,Event Monitor
+420,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+421,अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+422,घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+423,घटना रोजनामचा मिटाओ,Clear event log
+424,बाल गणना,Child count
+425,वर्णन,Description
+426,राज्य,States
+427,गुणधर्म,Attributes
+428,दिखाएं,Show
+429,संबंध,Relations
+430,पहुंचनीय,_ Accessible
+431,कार्रवाई संपन्न करें,Perform action
+432,कार्रवाई (_ o) ,Acti _ on
+433,आईडी,ID
+434,औजार बक्सा,Toolkit
+435,संस्करण,Version
+436,अनुप्रयोग,Ap _ plication
+437,संग्रह,Col _ lection
+438,"0, 0","0, 0"
+439,सापेक्ष स्थिति,Relative position
+440,आकार,Size
+441,विडजेट,WIDGET
+442,स्तर,Layer
+443,एमडीआई-जेड-क्रम,MDI - Z - order
+444,अल्फा,Alpha
+445,निरपेक्ष स्थिति,Absolute position
+446,घटक,Co _ mponent
+447,डेस्कटोप,Des _ ktop
+448,स्थान-विशिष्टः,Locale:
+449,प्रलेख,_ Document
+450,हाइपरकड़ी,Hyperlink
+451,हाइपरपाठ,H _ ypertext
+452,स्थिति,Position
+453,स्थान-विशिष्ट,Locale
+454,छवि (_ I) ,_ Image
+455,प्रवेश सहायक,Lo _ gin Helper
+456,सभी चुनें,Select All
+457,चयन (_ S) ,_ Selection
+458,प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+459,शीर्षकः,Caption:
+460,सारांशः,Summary:
+461,चुने गए स्तंभ,Selected columns
+462,चुनी गई पंक्तियां,Selected rows
+463,स्तंभ,Columns
+464,पंक्तियां,Rows
+465,सारणी सूचना,Table Information
+466,"नाम (x, y) ","name (x, y)"
+467,शीर्षकः,Header:
+468,विस्तारः,Extents:
+469,पंक्ति,Row
+470,स्तंभ,Column
+471,चुनी गई कोशिका,Selected Cell
+472,सारणी (_ T) ,_ Table
+473,ओफसेट,Offset
+474,डिफोल्टों को शामिल करें,Include defaults
+475,प्रारंभ,Start: 0
+476,अंतः 0,End: 0
+477,पाठ (_ x) ,Te _ xt
+478,मौजूदा मान,Current value
+479,न्यूनतम वृद्धि,Minimum increment
+480,अधिकतम मान,Maximum value
+481,न्यूनतम मान,Minimum value
+482,मान,Val _ ue
+483,अज्ञात,unknown
+484,अंतराफलक दर्शक,Interface Viewer
+485,अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+486,(क्रियान्वित नहीं हुआ है) ,(not implemented)
+487,नाम,Name
+488,यूआरआई,URI
+489,प्रारंभ,Start
+490,अंत,End
+491,बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+492,(संशोधनीय) Start,(Editable)
+493,प्रारंभEnd,Start:% d
+494,तेज चुनाव,Quick Select
+495,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+496,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+497,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+498,स्कीमाः,Sche _ ma:
+499,सत्यापन,V _ alidate
+500,खाली,Idle
+501,कोई विवरण नहीं,No description
+502,एटी-एसपीआई सत्यापक,AT - SPI Validator
+503,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है,Validates application accessibility
+504,स्तर,Level
+505,भूमिका,Role
+506,सहेज रहे हैं,Saving
+507,पुष्टि कर रहे हैं,Validating
+508,अपवाद,EXCEPT
+509,त्रुटि,ERROR
+510,चेतावनी,WARN
+511,सूचना,INFO
+512,दोषमुक्त करें,DEBUG
+513,मूल,Basic
+514,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है,Tests fundamental GUI application accessibility
+515,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+516,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,interactive% s is not actionable
+517,एक से अधिक विडजेट फोकस में है,more than one focused widget
+518,% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+519,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती,% s index in parent does not match child index
+520,% s संबंध के लिए अन्योन्य गायब है,Missing reciprocal for% s relation
+521,% s गायब नाम या सूचक,% s missing name or label
+522,"फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has a table interface, but not a selection interface"
+523,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",% s has% s state without% s state
+524,% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+525,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,% (rolename) s index% (num) d does not match row and column
+526,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+527,% s का कोई नाम या विवरण नहीं,% s has no name or description
+528,पसंद (_ P)... ,_ Preferences...
+529,विषय सूची (_ C) ,_ Contents
+530,<dead> ,< dead >
+531,शिशु,Children
+532,बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H) ,_ Hide / Show Applications without children
+533,पंजी ताजा करें (_ R) ,_ Refresh Registry
+534,सभी को ताजा करें,Refresh all
+535,आसंधि (नोड) को ताजा करें (_ N) ,Refresh _ Node
+536,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,Refresh selected node 's children
+537,घटक,Component
+538,कार्य,Task
+539,कुंजी,Key
+540,आल्ट,Alt
+541,कंट्रोल,Ctrl
+542,शिफ्ट,Shift
+543,ऊपरी पटल,Top panel
+544,निचला पटल,Bottom panel
+545,एक्सेर्साइसर पसंद,accerciser Preferences
+546,प्लगइन्स,Plugins
+547,सार्वत्रिक फटाफट कुंजियां,Global Hotkeys
+548,हाइलाइटन,Highlighting
+549,हाइलाइट अवधिः,Highlight duration:
+550,सीमांत रंगः,Border color:
+551,हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+552,भराई का रंगः,Fill color:
+553,हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+554,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+555,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+556,"एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी) ","accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)"
+557,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+558,जाल स्थल,Web site
+559,पसंद जोड़ें... (_ A) ,_ Add Bookmark...
+560,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+561,पुस्तक चिह्न संपादित करें (_ E)... ,_ Edit Bookmarks...
+562,पुस्तक-चिह्नों को प्रबंधित करें। ,Manage bookmarks.
+563,पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+564,शीर्षक,Title
+565,अनुप्रयोग,Application
+566,पथ,Path
+567,पुस्तक-चिह्न जोड़ें... ,Add Bookmark...
+568,शीर्षकः,Title:
+569,अनुप्रयोगः,Application:
+570,पथः,Path:
+571,प्लग-इन त्रुटियांviewport,Plugin Errors
+572,दृश्य,View
+573,कोई दृश्य नहीं है,No view
+574,एकल प्लग-इन दृश्य,_ Single plugins view
+575,प्लग-इन दृश्य,Plugin View
+576,प्लग-इन दृश्य (% d) ,Plugin View (% d)
+577,नया दृश्य... ,_ New view...
+578,नया दृश्य... ,New View...
+579,फाइल (F) ,_ File
+580,संपादित करेंmenu,_ Edit
+581,पसंद (_ B) menu,_ Bookmarks
+582,दृश्य _ (V) ,_ View
+583,मदद,_ Help
+584,(कोई विवरण नहीं) ,(no description)
+585,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+586,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। ,Note: Changes only take effect after logout.
+587,नया दृश्य... (_ N) ,_ New view...
+588,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+589,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+590,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+591,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
+592,अवधि को हाइलाइट रकें,Highlight duration
+593,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,The duration of the highlight box when selecting accessible nodes.
+594,भराई के रंग को हाइलाइट करें,Highlight fill color
+595,हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+596,सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+597,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+598,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,The layout for the bottom panel
+599,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,The layout for the bottom panel pluginview.
+600,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The layout for the top panel
+601,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The layout for the top panel pluginview.
+602,एकल प्लग-इन दृश्य,Single layout view
+603,एकल प्लग-इन दृश्य,Available new pluginviews
+604,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the top panel.
+605,एपीआई विचरक,API Browser
+606,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+607,निजी गुणों को छिपाएं,Hide private attributes
+608,विधि,Method
+609,गुणधर्म,Property
+610,मान,Value
+611,आईपाइथन कन्सोल,IPython Console
+612,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+613,घटना मानिटर,Event monitor
+614,घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+615,चुनाव को हटाएं (C _) ,C _ lear Selection
+616,सभी,Everything
+617,चुने गए अनुप्रयोग,Selected application
+618,चुने गए एक्सेसेबेल,Selected accessible
+619,स्रोत,Source
+620,घटना मानिटर,Event Monitor
+621,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+622,अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+623,घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+624,घटना रोजनामचा मिटाओ,Clear event log
+625,कोई विवरण नहीं,(no description)
+626,वर्णन,Description
+627,दिखाएं,Show
+628,पहुंचनीय,_ Accessible
+629,कार्रवाई संपन्न करें,Perform action
+630,कार्रवाई (_ o) ,Acti _ on
+631,आईडी,ID
+632,औजार बक्सा,Toolkit
+633,संस्करण,Version
+634,अनुप्रयोग,Ap _ plication
+635,संग्रह,Col _ lection
+636,"0, 0","0, 0"
+637,सापेक्ष स्थिति,Relative position
+638,आकार,Size
+639,विडजेट,WIDGET
+640,स्तर,Layer
+641,एमडीआई-जेड-क्रम,MDI - Z - order
+642,अल्फा,Alpha
+643,निरपेक्ष स्थिति,Absolute position
+644,घटक,Co _ mponent
+645,डेस्कटोप,Des _ ktop
+646,स्थान-विशिष्टः,Locale:
+647,प्रलेख,_ Document
+648,हाइपरकड़ी,Hyperlink
+649,हाइपरपाठ,H _ ypertext
+650,स्थिति,Position
+651,वर्णन,Description
+652,स्थान-विशिष्ट,Locale
+653,छवि (_ I) ,_ Image
+654,प्रवेश सहायक,Lo _ gin Helper
+655,सभी चुनें,Select All
+656,चयन (_ S) ,_ Selection
+657,प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+658,चुने गए स्तंभ,Selected columns
+659,चुनी गई पंक्तियां,Selected rows
+660,स्तंभ,Columns
+661,पंक्तियां,Rows
+662,& lt; bgt; सारणी सूचनाlt;/bgt; ,Table Information
+663,"नाम (x, y) ","name (x, y)"
+664,शीर्षकः,Header:
+665,विस्तारः,Extents:
+666,पंक्ति,Row
+667,स्तंभ,Column
+668,& lt; bgt; चुनी गई कोशिकाlt;/bgt; ,Selected Cell
+669,सारणी (_ T) ,_ Table
+670,ओफसेट,Offset
+671,डिफोल्टों को शामिल करें,Include defaults
+672,पाठ (_ x) ,Te _ xt
+673,मौजूदा मान,Current value
+674,न्यूनतम वृद्धि,Minimum increment
+675,अधिकतम मान,Maximum value
+676,न्यूनतम मान,Minimum value
+677,मान,Val _ ue
+678,अंतराफलक दर्शक,Interface Viewer
+679,अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+680,(क्रियान्वित नहीं हुआ है) ,(not implemented)
+681,नाम,Name
+682,यूआरआई,URI
+683,प्रारंभ,Start
+684,अंत,End
+685,बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+686,तेज चुनाव,Quick Select
+687,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+688,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+689,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+690,स्कीमाः,Sche _ ma:
+691,सत्यापन,V _ alidate
+692,खाली,Idle
+693,कोई विवरण नहीं,No description
+694,एटी-एसपीआई सत्यापक,AT - SPI Validator
+695,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है,Validates application accessibility
+696,स्तर,Level
+697,भूमिका,Role
+698,सहेज रहे हैं,Saving
+699,पुष्टि कर रहे हैं,Validating
+700,अपवाद,EXCEPT
+701,त्रुटि,ERROR
+702,चेतावनी,WARN
+703,सूचना,INFO
+704,दोषमुक्त करें,DEBUG
+705,मूल,Basic
+706,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है,Tests fundamental GUI application accessibility
+707,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+708,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,interactive% s is not actionable
+709,एक से अधिक विडजेट फोकस में है,more than one focused widget
+710,% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+711,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती,% s index in parent does not match child index
+712,% s संबंध के लिए अन्योन्य गायब है,Missing reciprocal for% s relation
+713,% s गायब नाम या सूचक,% s missing name or label
+714,"फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has a table interface, but not a selection interface"
+715,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",% s has% s state without% s state
+716,% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+717,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,% (rolename) s index% (num) d does not match row and column
+718,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+719,% s का कोई नाम या विवरण नहीं,% s has no name or description
+720,पसंद (_ P)... ,_ Preferences...
+721,विषय सूची (_ C) ,_ Contents
+722,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+723,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। ,Note: Changes only take effect after logout.
+724,शिशु,Children
+725,पंजी ताजा करें (_ R) ,_ Refresh Registry
+726,सभी को ताजा करें,Refresh all
+727,आसंधि (नोड) को ताजा करें (_ N) ,Refresh _ Node
+728,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,Refresh selected node 's children
+729,घटक,Component
+730,कार्य,Task
+731,कुंजी,Key
+732,आल्ट,Alt
+733,कंट्रोल,Ctrl
+734,शिफ्ट,Shift
+735,ऊपरी पटल,Top panel
+736,निचला पटल,Bottom panel
+737,एक्सेर्साइसर पसंद,accerciser Preferences
+738,प्लगइन्स,Plugins
+739,सार्वत्रिक फटाफट कुंजियां,Global Hotkeys
+740,हाइलाइटन,Highlighting
+741,हाइलाइट अवधिः,Highlight duration:
+742,सीमांत रंगः,Border color:
+743,हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+744,भराई का रंगः,Fill color:
+745,हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+746,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+747,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+748,"एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी) ","accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)"
+749,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+750,जाल स्थल,Web site
+751,पसंद जोड़ें... (_ A) ,_ Add Bookmark...
+752,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+753,पुस्तक चिह्न संपादित करें (_ E)... ,_ Edit Bookmarks...
+754,पुस्तक-चिह्नों को प्रबंधित करें। ,Manage bookmarks.
+755,पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+756,शीर्षक,Title
+757,अनुप्रयोग,Application
+758,पथ,Path
+759,पुस्तक-चिह्न जोड़ें... ,Add Bookmark...
+760,शीर्षकः,Title:
+761,अनुप्रयोगः,Application:
+762,पथः,Path:
+763,प्लग-इन त्रुटियां,Plugin Errors
+764,दृश्य,View
+765,कोई दृश्य नहीं है,No view
+766,एकल प्लग-इन दृश्य,_ Single plugins view
+767,प्लग-इन दृश्य,Plugin View
+768,प्लग-इन दृश्य (% d) ,Plugin View (% d)
+769,नया दृश्य... ,_ New view...
+770,नया दृश्य... ,New View...
+771,फाइल (F) ,_ File
+772,संपादित करें,_ Edit
+773,पुस्तक-चिह्न संपादित करें (_ E)... ,_ Bookmarks
+774,दृश्य _ (V) ,_ View
+775,मदद,_ Help
+776,एक्सेर्साइसर,Accerciser
+777,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+778,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+779,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+780,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
+781,अवधि को हाइलाइट रकें,Highlight duration
+782,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि. ,The duration of the highlight box when selecting accessible nodes.
+783,भराई के रंग को हाइलाइट करें,Highlight fill color
+784,हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+785,सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+786,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+787,क्षैतिज विभाजन,Horizontal split
+788,मुख्य विंडो की क्षैतिज विभाजन की स्थिति. ,Position of the horizontal split of the main window.
+789,अनुलंब विभाजित,Vertical split
+790,मुख्य विंडो की अनुलंब विभाजित की स्थिति. ,Position of the vertical split of the main window.
+791,तयशुदा विंडो ऊंचाई,Default window height
+792,विंडो की ऊंचाई का मान. ,The window height value.
+793,तयशुदा विंडो चौड़ाई,Default window width
+794,विंडो चौड़ाई मान. ,The window width value.
+795,नीचे के पैनल के लिए लेआउट,The layout for the bottom panel
+796,नीचे पैनल pluginview के लिए लेआउट. ,The layout for the bottom panel pluginview.
+797,ऊपरी पटल के लिए खाका,The layout for the top panel
+798,शीर्ष पैनल pluginview के लिए लेआउट. ,The layout for the top panel pluginview.
+799,एकल लेआउट दृश्य,Single layout view
+800,एक ही खाका में प्लगिन देखें. ,View plugins in a single layout.
+801,नई pluginviews उपलब्ध है,Available new pluginviews
+802,इस सूची में सभी नई उपलब्ध pluginviews शामिल हैं,This list contains all the new available pluginviews
+803,pluginview लेआउट,The pluginview layout
+804,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका. ,The default plugin layout for the top panel.
+805,विंडो की ऊँचाई,Window height
+806,विंडो की ऊंचाई का मान. ,Window height value.
+807,विंडो की चौड़ाई,Window width
+808,विंडो चौड़ाई मान. ,Window width value.
+809,hotkey संयोजन,Hotkey combination
+810,संबंधित कार्रवाई के लिए hotkey संयोजन. ,Hotkey combination for related action.
+811,एपीआई विचरक,API Browser
+812,"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+813,निजी गुणों को छिपाएं,Hide private attributes
+814,विधि,Method
+815,गुणधर्म,Property
+816,मान,Value
+817,आईपाइथन कन्सोल,IPython Console
+818,इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+819,घटना मानिटर,Event monitor
+820,घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+821,चुनाव को हटाएं (C _) ,C _ lear Selection
+822,सभी,Everything
+823,चुने गए अनुप्रयोग,Selected application
+824,चुने गए एक्सेसेबेल,Selected accessible
+825,स्रोत,Source
+826,घटना मानिटर,Event Monitor
+827,"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+828,अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+829,घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+830,घटना रोजनामचा मिटाओ,Clear event log
+831,बाल गणना,Child count
+832,(कोई विवरण नहीं) ,(no description)
+833,वर्णन,Description
+834,राज्य,States
+835,दिखाएं,Show
+836,संबंध,Relations
+837,गुणधर्म,Attributes
+838,पहुंचनीय,_ Accessible
+839,कार्रवाई संपन्न करें,Perform action
+840,कार्रवाई (_ o) ,Acti _ on
+841,आईडी,ID
+842,औजार बक्सा,Toolkit
+843,संस्करण,Version
+844,अनुप्रयोग,Ap _ plication
+845,संग्रह,Col _ lection
+846,"0, 0","0, 0"
+847,सापेक्ष स्थिति,Relative position
+848,आकार,Size
+849,विडजेट,WIDGET
+850,स्तर,Layer
+851,एमडीआई-जेड-क्रम,MDI - Z - order
+852,अल्फा,Alpha
+853,निरपेक्ष स्थिति,Absolute position
+854,घटक,Co _ mponent
+855,डेस्कटोप,Des _ ktop
+856,स्थान-विशिष्टः,Locale:
+857,प्रलेख,_ Document
+858,हाइपरकड़ी,Hyperlink
+859,हाइपरपाठ,H _ ypertext
+860,स्थिति,Position
+861,वर्णन,Description
+862,स्थान-विशिष्ट,Locale
+863,छवि (_ I) ,_ Image
+864,प्रवेश सहायक,Lo _ gin Helper
+865,सभी चुनें,Select All
+866,चयन (_ S) ,_ Selection
+867,प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+868,शीर्षकः,Caption:
+869,सारांशः,Summary:
+870,चुने गए स्तंभ,Selected columns
+871,चुनी गई पंक्तियां,Selected rows
+872,स्तंभ,Columns
+873,पंक्तियां,Rows
+874,सारणी सूचना,Table Information
+875,"नाम (x, y) ","name (x, y)"
+876,शीर्षकः,Header:
+877,विस्तारः,Extents:
+878,पंक्ति,Row
+879,स्तंभ,Column
+880,चुनी गई कोशिका,Selected Cell
+881,सारणी (_ T) ,_ Table
+882,पाठ,Text
+883,ओफसेट,Offset
+884,डिफोल्टों को शामिल करें,Include defaults
+885,प्रारंभः 0,Start: 0
+886,अंतः 0,End: 0
+887,पाठ (_ x) ,Te _ xt
+888,मौजूदा मान,Current value
+889,न्यूनतम वृद्धि,Minimum increment
+890,अधिकतम मान,Maximum value
+891,न्यूनतम मान,Minimum value
+892,मान,Val _ ue
+893,अज्ञात,unknown
+894,अंतराफलक दर्शक,Interface Viewer
+895,अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+896,(क्रियान्वित नहीं हुआ है) ,(not implemented)
+897,नाम,Name
+898,यूआरआई,URI
+899,प्रारंभ,Start
+900,अंत,End
+901,बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+902,(संशोधनीय) ,(Editable)
+903,तेज चुनाव,Quick Select
+904,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+905,अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+906,"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+907,स्कीमाः,Sche _ ma:
+908,सत्यापन,V _ alidate
+909,खाली,Idle
+910,कोई विवरण नहीं,No description
+911,एटी-एसपीआई सत्यापक,AT - SPI Validator
+912,अनुप्रयोग की पहुंचनीयता का सत्यापन करता है,Validates application accessibility
+913,स्तर,Level
+914,भूमिका,Role
+915,सहेज रहे हैं,Saving
+916,पुष्टि कर रहे हैं,Validating
+917,अपवाद,EXCEPT
+918,त्रुटि,ERROR
+919,चेतावनी,WARN
+920,सूचना,INFO
+921,दोषमुक्त करें,DEBUG
+922,मूल,Basic
+923,मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है,Tests fundamental GUI application accessibility
+924,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+925,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,interactive% s is not actionable
+926,एक से अधिक विडजेट फोकस में है,more than one focused widget
+927,% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+928,अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती,% s index in parent does not match child index
+929,% s संबंध के लिए अन्योन्य गायब है,Missing reciprocal for% s relation
+930,% s गायब नाम या सूचक,% s missing name or label
+931,"फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has a table interface, but not a selection interface"
+932,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",% s has% s state without% s state
+933,% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+934,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,% (rolename) s index% (num) d does not match row and column
+935,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+936,% s का कोई नाम या विवरण नहीं,% s has no name or description
+937,पसंद (_ P)... ,_ Preferences...
+938,विषय सूची (_ C) ,_ Contents
+939,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+940,टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे। ,Note: Changes only take effect after logout.
+941,<dead> ,< dead >
+942,शिशु,Children
+943,बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H) ,_ Hide / Show Applications without children
+944,पंजी ताजा करें (_ R) ,_ Refresh Registry
+945,सभी को ताजा करें,Refresh all
+946,आसंधि (नोड) को ताजा करें (_ N) ,Refresh _ Node
+947,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,Refresh selected node 's children
+948,घटक,Component
+949,कार्य,Task
+950,कुंजी,Key
+951,आल्ट,Alt
+952,कंट्रोल,Ctrl
+953,शिफ्ट,Shift
+954,ऊपरी पटल,Top panel
+955,निचला पटल,Bottom panel
+956,एक्सेर्साइसर पसंद,accerciser Preferences
+957,प्लगइन्स,Plugins
+958,सार्वत्रिक फटाफट कुंजियां,Global Hotkeys
+959,हाइलाइटन,Highlighting
+960,हाइलाइट अवधिः,Highlight duration:
+961,सीमांत रंगः,Border color:
+962,हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+963,भराई का रंगः,Fill color:
+964,हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+965,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+966,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+967,"एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी) ","accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)"
+968,नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+969,जाल स्थल,Web site
+970,पसंद जोड़ें... (_ A) ,_ Add Bookmark...
+971,चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+972,पुस्तक चिह्न संपादित करें (_ E)... ,_ Edit Bookmarks...
+973,पुस्तक-चिह्नों को प्रबंधित करें। ,Manage bookmarks.
+974,पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+975,शीर्षक,Title
+976,अनुप्रयोग,Application
+977,पथ,Path
+978,पुस्तक-चिह्न जोड़ें... ,Add Bookmark...
+979,शीर्षकः,Title:
+980,अनुप्रयोगः,Application:
+981,पथः,Path:
+982,प्लग-इन त्रुटियांviewport,Plugin Errors
+983,दृश्य,View
+984,कोई दृश्य नहीं है,No view
+985,एकल प्लग-इन दृश्य,_ Single plugins view
+986,प्लग-इन दृश्य,Plugin View
+987,प्लग-इन दृश्य (% d) ,Plugin View (% d)
+988,नया दृश्य... (_ N) ,_ New view...
+989,नया दृश्य... ,New View...
+990,फाइल (F) ,_ File
+991,संपादित करेंmenu,_ Edit
+992,पसंद (_ B) menu,_ Bookmarks
+993,दृश्य _ (V) ,_ View
+994,मदद,_ Help
+995,एक्सेर्साइसर,Accerciser
+996,अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+997,एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+998,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+999,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
