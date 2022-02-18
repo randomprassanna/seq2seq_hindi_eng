@@ -139,3 +139,5 @@ for x,y in train_dl:
     print(x.shape)
     break
 
+print(x.dtype)
+
